@@ -1,5 +1,3 @@
-# openVG_2D_Game_Project_Metal_Slug_CopyDemo
-
 과제를 기반으로 다듬어서 완성한 메탈슬러그 2D 게임입니다.
 
 openVG를 사용한 게임 제작 - 메탈 슬러그 모작
